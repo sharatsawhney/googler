@@ -1,0 +1,11 @@
+body {
+	background-color:#333333;
+	color:white;
+}
+.wrapper {
+	margin-top:10%;
+}
+input[type="text"] {
+	width:50%;
+	margin:0 auto;
+}
